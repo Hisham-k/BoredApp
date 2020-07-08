@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bored App</string>
+    
+    <string-array name="type">
+        <item>Busywork</item>
+        <item>Charity</item>
+        <item>Cooking</item>
+        <item>DIY</item>
+        <item>Education</item>
+        <item>Recreational</item>
+        <item>Relaxation</item>
+        <item>Social</item>
+        <item>Music</item>
+    </string-array>
+</resources>
